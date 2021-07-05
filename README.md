@@ -5,6 +5,8 @@ This project intends to help large production companies in the movie industry se
 
 Instructions:
 
-Part 1: 
+Part 1: Clean data and manipulate the columns
 
-Part 2: 
+Part 2: Create graph of studios return on investment. Gross profit vs losses
+
+Part 3: Create movie filtering system based on genre, year and quality
